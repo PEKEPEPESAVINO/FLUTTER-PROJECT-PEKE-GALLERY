@@ -1,0 +1,4 @@
+#Wed Nov 20 16:55:20 ART 2019
+base.0=C\:\\Users\\pvpri\\Desktop\\Peke Gallery\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
